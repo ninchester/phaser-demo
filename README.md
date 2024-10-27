@@ -11,6 +11,6 @@ OnceDocker Compose is installed, you can build and start the game containers by 
 ``` docker-compose up --build ```
 
 # Demo 
- ![Here is how the game looks like](./docs/phaser-demo.mov)
+ ![Here is how the game looks like](./docs/phaser-demo.gif)
  
  Enjoy! :)
