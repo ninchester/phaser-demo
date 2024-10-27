@@ -1,0 +1,14 @@
+{
+    "name": "phaser-docker-project",
+    "version": "1.0.0",
+    "description": "A Phaser project running in Docker",
+    "main": "index.js",
+    "scripts": {
+      "start": "http-server src -p 8087"
+    },
+    "dependencies": {
+      "phaser": "^3.55.2",
+      "http-server": "^14.0.0"
+    }
+  }
+  
